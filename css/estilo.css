@@ -202,7 +202,7 @@ main section legend {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
+    color: rgb(255, 255, 255);
     box-shadow: 0 0px 5px rgba(0, 0, 0, 0.5);
     font-size: 20px;
 }
@@ -215,11 +215,7 @@ main section legend {
     border-collapse: collapse;
     
     box-shadow: 0 0px 5px rgba(0, 0, 0, 0.5);
-
-}
-
-.tabela th {
-    background: rgb(245, 245, 250);
+    background: rgb(255, 255, 255);
 }
 
 .tabela th, td {
@@ -248,6 +244,6 @@ footer {
     justify-content: center;
     height: 100px;
     background: rgb(65, 65, 65);
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 10px 0;
 }
